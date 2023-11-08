@@ -38,7 +38,8 @@ printf("Total head moment is %d",TotalHeadMoment);
 return 0;
 }
 ```
-OUTPUT:
+## OUTPUT:
+
 ![image](https://github.com/nivetharajaa/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120543388/6b38a8c4-854d-4a93-9e6d-3840af70e444)
 
 ## RESULT:
