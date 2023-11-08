@@ -88,6 +88,7 @@ return 0;
 }
 ```
 ## OUTPUT:
+
 ![image](https://github.com/nivetharajaa/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/120543388/ae555774-7842-48b4-9934-1ba223c6684d)
 ## RESULT:
 Thus the implementation of the program for shortest seek time first disc scheduling has been successfully executed.
